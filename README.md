@@ -17,3 +17,9 @@ Common Blackjack game. In this project, you gonna play Blackjack against the com
 You are able to select how many times you wanna play it.
 Then the game starts. You receive 2 random cards and choose to hit or stand.
 Whoever hits 21 first wins. Whoever passes 21 loses.
+
+## Python Projects
+20 Begginer Python Projects from https://www.youtube.com/watch?v=pdy3nh1tn6I.
+
+### Email Sender
+Email sender built with EmailMessage lib and SMTP. Sadly, the code is not available in reason to keep my privacy.
