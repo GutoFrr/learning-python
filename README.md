@@ -23,4 +23,7 @@ Whoever hits 21 first wins. Whoever passes 21 loses.
 20 Begginer Python Projects from https://www.youtube.com/watch?v=pdy3nh1tn6I.
 
 ### Email Sender
-Email sender built with EmailMessage lib and SMTP. Sadly, the code is not available in reason to keep my privacy.
+Email sender built with EmailMessage lib and SMTP.
+
+### Word Replacement
+Simple program where you enter a word to replace and a word replacement.
