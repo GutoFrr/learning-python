@@ -1,7 +1,7 @@
 # Learning Python
 Python learning from freeCodeCamp.org courses.
 
-## Python for Beginners - Full courses
+## Python for Beginners - Full course
 Python main concepts tutorial. https://www.youtube.com/watch?v=eWRfhZUzrAc
 ### Rock, Paper and Scissors
 An intro project to cover Python basics codes.
@@ -17,6 +17,7 @@ Common Blackjack game. In this project, you gonna play Blackjack against the com
 You are able to select how many times you wanna play it.
 Then the game starts. You receive 2 random cards and choose to hit or stand.
 Whoever hits 21 first wins. Whoever passes 21 loses.
+
 
 ## Python Projects
 20 Begginer Python Projects from https://www.youtube.com/watch?v=pdy3nh1tn6I.
