@@ -1,7 +1,7 @@
 # Learning Python
 Python learning from freeCodeCamp.org courses.
 
-## Python for Beginners - Full courses
+## Python for Beginners - Full course
 Python main concepts tutorial. https://www.youtube.com/watch?v=eWRfhZUzrAc
 ### Rock, Paper and Scissors
 An intro project to cover Python basics codes.
