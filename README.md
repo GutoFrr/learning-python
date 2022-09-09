@@ -27,3 +27,14 @@ Email sender built with EmailMessage lib and SMTP.
 
 ### Word Replacement
 Simple program where you enter a word to replace and a word replacement.
+
+### Basic Calculator
+A basic calculator that asks for a operation, 2 numbers and prints the result.
+You can do how many operations you want, and also exit the programing in the menu.
+
+### Email Slicer
+There, you can type a email and then you will receive 3 values: an username, a domain and an extension.
+Example: example@gmail.com
+  Username: example
+  Domain: gmail 
+  extension: com
