@@ -2,7 +2,6 @@ import random
 
 
 def roll_dice():
-    
     roll = input("Roll the dice? (Yes/No): ")
 
     while roll.lower() == "Yes".lower():

@@ -23,9 +23,9 @@ def generate_password():
 
 
 option = input("Do you want to generate a password? (Yes/No): ")
-if option == "Yes":
+if option.lower() == "Yes".lower():
     generate_password()
-elif option == "No":
+elif option.lower() == "No".lower():
     print("Program ended")
     quit()
 else:
