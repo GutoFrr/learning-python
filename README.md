@@ -38,3 +38,20 @@ Example: example@gmail.com
   Username: example
   Domain: gmail 
   extension: com
+
+### Quiz Program
+The user get 7 statements to answer, everytime you hit the correct answer you get 1 point.
+At the end, you see how many answers you hitted correctly and the percentage of it.
+
+### Interest Rate Calculator
+First, you need to input the loan amount, the annual percent rate and then the amount of years you gonna pay for it.
+The program will calculate the interest rate you need to pay monthly.
+
+### Random Password Generator
+In this program, the user inputs the length intended to its password.
+The program will shuffle characters of ascii table and print the result.
+
+### Dice Rolling
+The user can choose between roll the dice or end the program.
+If the user chose to roll, the program will give it 2 values between 1 and 6 and print the result.
+
