@@ -55,3 +55,5 @@ The program will shuffle characters of ascii table and print the result.
 The user can choose between roll the dice or end the program.
 If the user chose to roll, the program will give it 2 values between 1 and 6 and print the result.
 
+### Currency Conveter
+This programs converts US Dollars to Pounds Sterling.
