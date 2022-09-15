@@ -20,7 +20,7 @@ Whoever hits 21 first wins. Whoever passes 21 loses.
 
 
 ## Python Projects
-20 Begginer Python Projects from https://www.youtube.com/watch?v=pdy3nh1tn6I.
+Begginer Python Projects from https://www.youtube.com/watch?v=pdy3nh1tn6I.
 
 ### Email Sender
 Email sender built with EmailMessage lib and SMTP.
@@ -56,4 +56,4 @@ The user can choose between roll the dice or end the program.
 If the user chose to roll, the program will give it 2 values between 1 and 6 and print the result.
 
 ### Currency Conveter
-This programs converts US Dollars to Pounds Sterling.
+This program converts US Dollars to Pounds Sterling.
